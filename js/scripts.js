@@ -15,3 +15,11 @@ Player.prototype.rollDice = function () {
     };
   };
 };
+
+//UI logic
+$(document).ready(function() {
+  $(#submit).click(function() {
+    event.preventDefault();
+
+  })
+}
