@@ -1,0 +1,14 @@
+.top{
+  background-image: url("../pexels-photo-1011100.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+}
+.codeName{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  padding-top: 100px;
+}
