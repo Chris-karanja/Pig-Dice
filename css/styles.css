@@ -22,3 +22,15 @@
   margin-left: 20px;
   margin-right: 20px;
 }
+.footer{
+  background-color: black;
+}
+h1{
+  color: white
+}
+p{
+  color: black;
+}
+header{
+  font-family: 'Pacifico', cursive;
+}
