@@ -1,0 +1,36 @@
+.top{
+  background-image: url("../pexels-photo-1011100.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+}
+.codeName{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  padding-top: 100px;
+}
+.medium{
+  padding-top: 100px;
+}
+.medium2{
+  padding-top: 100px;
+}
+.game{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.footer{
+  background-color: black;
+}
+h1{
+  color: white
+}
+p{
+  color: black;
+}
+header{
+  font-family: 'Pacifico', cursive;
+}
